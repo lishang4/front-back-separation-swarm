@@ -1,0 +1,23 @@
+networks:
+  emotibot:
+    external: true
+    name: swarm
+services:
+  web-ui:
+    container_name: web-ui
+    deploy:
+      replicas: 3
+      resources:
+        limits:
+          memory: 512M
+    environment:
+      TDE2_URL: http://tde:10999/tde/usp/query
+      TDE_URL: http://tde:10999/tde/usp/parse
+      TW_PORT: '5010'
+    image: harbor.lishang4.com/fju/web-ui
+    networks:
+      swarm: {}
+    restart: always
+    volumes:
+    - /etc/localtime:/etc/localtime:rw
+version: '3.7'

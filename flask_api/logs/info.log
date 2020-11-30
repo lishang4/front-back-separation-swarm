@@ -1,0 +1,226 @@
+[2020-11-27 10:20:14,241][69332][MainThread][I][_internal.py:_log:122] :  * Running on http://0.0.0.0:55688/ (Press CTRL+C to quit)
+[2020-11-27 10:20:26,205][69332][  Thread-1][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:20:26] "GET /get HTTP/1.1" 404 -
+[2020-11-27 10:20:26,537][69332][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:20:26] "GET /favicon.ico HTTP/1.1" 404 -
+[2020-11-27 10:21:25,056][69332][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:21:25] "GET /cc HTTP/1.1" 200 -
+[2020-11-27 10:21:30,175][69332][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:21:30] "GET /gm HTTP/1.1" 200 -
+[2020-11-27 10:37:31,755][70401][MainThread][I][_internal.py:_log:122] :  * Running on http://0.0.0.0:55688/ (Press CTRL+C to quit)
+[2020-11-27 10:41:23,441][70401][  Thread-1][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:41:23] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 10:44:14,733][70401][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:44:14] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 10:44:21,581][70401][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:44:21] "OPTIONS /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 10:44:21,591][70401][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:44:21] "POST /api/v1/cc HTTP/1.1" 400 -
+[2020-11-27 10:44:33,684][70401][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:44:33] "OPTIONS /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 10:44:33,688][70401][  Thread-6][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:44:33] "POST /api/v1/cc HTTP/1.1" 400 -
+[2020-11-27 10:48:43,403][70401][  Thread-7][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:48:43] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 10:48:55,458][70401][  Thread-8][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:48:55] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 10:58:16,526][70401][  Thread-9][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 10:58:16] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 11:17:02,145][70401][ Thread-10][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:17:02] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 11:17:04,820][70401][ Thread-11][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:17:04] "OPTIONS /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 11:17:04,828][70401][ Thread-12][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:17:04] "POST /api/v1/cc HTTP/1.1" 400 -
+[2020-11-27 11:17:08,452][70401][ Thread-13][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:17:08] "GET /api/v1/cc HTTP/1.1" 200 -
+[2020-11-27 11:17:45,570][72623][MainThread][I][_internal.py:_log:122] :  * Running on http://0.0.0.0:55688/ (Press CTRL+C to quit)
+[2020-11-27 11:17:45,573][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:17:45,947][72626][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:17:45,955][72626][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:17:54,815][72626][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:17:54] "GET /api/v1/cc HTTP/1.1" 401 -
+[2020-11-27 11:18:26,334][72626][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:18:26] "GET /api/v1/cc HTTP/1.1" 401 -
+[2020-11-27 11:23:18,794][72626][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:23:18] "GET /api/v1/member_list HTTP/1.1" 500 -
+[2020-11-27 11:24:20,859][72626][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:24:21,670][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:24:22,605][73134][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:24:22,617][73134][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:24:27,531][73134][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:24:27] "GET /api/v1/member_list HTTP/1.1" 500 -
+[2020-11-27 11:24:40,205][73134][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:24:40,300][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:24:41,490][73192][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:24:41,498][73192][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:24:45,062][73192][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:24:45] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:24:49,788][73192][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:24:49] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:24:49,793][73192][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:24:49] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:24:53,201][73192][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:24:53] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:24:57,589][73192][  Thread-6][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:24:57] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:25:15,109][73192][  Thread-7][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:25:15] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:25:15,113][73192][  Thread-8][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:25:15] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:25:17,539][73192][  Thread-9][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:25:17] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:25:23,622][73192][ Thread-10][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:25:23] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:28:13,906][73192][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:28:14,077][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:28:14,979][73410][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:28:14,995][73410][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:28:25,545][73410][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:28:25] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:28:26,540][73410][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:28:26] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:28:28,854][73410][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:28:28] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:28:28,859][73410][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:28:28] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:28:29,766][73410][  Thread-6][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:28:29] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:29:27,677][73410][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:29:27,784][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:29:28,311][73472][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:29:28,321][73472][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:29:42,177][73472][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:29:42] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:29:42,926][73472][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:29:42] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:29:42,930][73472][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:29:42] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:29:43,811][73472][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:29:43] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:31:36,026][73472][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/__init__.py', reloading
+[2020-11-27 11:31:36,199][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:31:36,748][73624][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:31:36,767][73624][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:31:49,137][73624][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:31:49,213][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:31:50,112][73655][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:31:50,120][73655][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:31:56,132][73655][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:31:56] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:32:00,640][73655][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:32:00] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:32:00,644][73655][  Thread-4][D][controller.py:post:56] : account
+[2020-11-27 11:32:00,645][73655][  Thread-4][D][controller.py:post:56] : password
+[2020-11-27 11:32:00,645][73655][  Thread-4][D][controller.py:post:56] : email
+[2020-11-27 11:32:00,646][73655][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:32:00] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:32:32,210][73655][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:32:32,365][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:32:33,629][73702][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:32:33,640][73702][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:32:35,645][73702][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:32:35] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:32:36,507][73702][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:32:36] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:32:36,514][73702][  Thread-4][D][controller.py:post:56] : 
+[2020-11-27 11:32:36,515][73702][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:32:36] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:32:39,187][73702][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:32:39] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:33:18,491][73702][  Thread-6][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:18] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:33:18,500][73702][  Thread-7][D][controller.py:post:56] : ddd
+[2020-11-27 11:33:18,500][73702][  Thread-7][D][controller.py:post:56] : 
+[2020-11-27 11:33:18,501][73702][  Thread-7][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:18] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:33:20,799][73702][  Thread-8][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:20] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:33:27,137][73702][  Thread-9][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:27] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:33:28,505][73702][ Thread-10][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:28] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:33:28,511][73702][ Thread-11][D][controller.py:post:56] : ddd
+[2020-11-27 11:33:28,512][73702][ Thread-11][D][controller.py:post:56] : 
+[2020-11-27 11:33:28,512][73702][ Thread-11][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:28] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:33:32,146][73702][ Thread-12][D][controller.py:post:56] : asdasd
+[2020-11-27 11:33:32,146][73702][ Thread-12][D][controller.py:post:56] : 
+[2020-11-27 11:33:32,147][73702][ Thread-12][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:32] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:33:36,032][73702][ Thread-13][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:36] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:33:36,036][73702][ Thread-14][D][controller.py:post:56] : asdasd
+[2020-11-27 11:33:36,036][73702][ Thread-14][D][controller.py:post:56] : asda
+[2020-11-27 11:33:36,036][73702][ Thread-14][D][controller.py:post:56] : asdasd
+[2020-11-27 11:33:36,037][73702][ Thread-14][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:36] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:33:37,476][73702][ Thread-15][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:33:37] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:36:14,461][73702][ Thread-16][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:14] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:36:16,477][73702][ Thread-17][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:16] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:36:16,484][73702][ Thread-18][D][controller.py:post:56] : 
+[2020-11-27 11:36:16,485][73702][ Thread-18][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:16] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:36:21,344][73702][ Thread-19][D][controller.py:post:56] : dd
+[2020-11-27 11:36:21,345][73702][ Thread-19][D][controller.py:post:56] : dd
+[2020-11-27 11:36:21,345][73702][ Thread-19][D][controller.py:post:56] : dd
+[2020-11-27 11:36:21,346][73702][ Thread-19][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:21] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:36:38,530][73702][ Thread-20][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:38] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:36:42,222][73702][ Thread-21][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:42] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:36:42,227][73702][ Thread-22][D][controller.py:post:56] : dd
+[2020-11-27 11:36:42,227][73702][ Thread-22][D][controller.py:post:56] : dd
+[2020-11-27 11:36:42,227][73702][ Thread-22][D][controller.py:post:56] : dd
+[2020-11-27 11:36:42,228][73702][ Thread-22][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:42] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:36:45,058][73702][ Thread-23][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:36:45] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:39:36,771][73702][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:39:37,024][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:39:37,576][74584][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:39:37,587][74584][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:39:42,054][74584][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:39:42] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:39:43,030][74584][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:39:43] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:39:43,040][74584][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:39:43] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 11:39:45,503][74584][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:39:45] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:39:46,506][74584][  Thread-6][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:39:46] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:40:17,904][74584][  Thread-7][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:40:17] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:40:22,005][74584][  Thread-8][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:40:22] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 11:40:22,013][74584][  Thread-9][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:40:22] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:40:25,135][74584][ Thread-10][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:40:25] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 11:43:12,522][74584][MainThread][I][_internal.py:_log:122] :  * Detected change in '/Users/anita/Desktop/lishang/workspace/Github/flask_vue/flask_api/api/controller.py', reloading
+[2020-11-27 11:43:12,687][72623][MainThread][I][_internal.py:_log:122] :  * Restarting with stat
+[2020-11-27 11:43:13,605][74770][MainThread][W][_internal.py:_log:122] :  * Debugger is active!
+[2020-11-27 11:43:13,619][74770][MainThread][I][_internal.py:_log:122] :  * Debugger PIN: 759-879-977
+[2020-11-27 11:50:01,215][74770][  Thread-2][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:50:01] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 11:50:13,677][74770][  Thread-3][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:50:13] "GET /api/v1/asd HTTP/1.1" 401 -
+[2020-11-27 11:50:22,415][74770][  Thread-4][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:50:22] "GET /api/v1/asd HTTP/1.1" 401 -
+[2020-11-27 11:50:26,632][74770][  Thread-5][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:50:26] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 11:50:47,671][74770][  Thread-6][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:50:47] "GET /api/v1/test1a HTTP/1.1" 401 -
+[2020-11-27 11:57:04,744][74770][  Thread-7][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:57:04] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 11:57:08,649][74770][  Thread-8][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:57:08] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:57:11,662][74770][  Thread-9][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:57:11] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 11:57:16,042][74770][ Thread-10][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:57:16] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 11:59:47,523][74770][ Thread-11][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:59:47] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 11:59:50,567][74770][ Thread-12][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:59:50] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 11:59:54,559][74770][ Thread-13][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 11:59:54] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 12:00:23,689][74770][ Thread-14][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:23] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:00:25,164][74770][ Thread-15][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:25] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 12:00:32,472][74770][ Thread-16][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:32] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:00:33,598][74770][ Thread-17][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:33] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 12:00:36,426][74770][ Thread-18][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:36] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:00:36,440][74770][ Thread-19][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:36] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:00:41,956][74770][ Thread-20][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:41] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:00:41,962][74770][ Thread-21][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:41] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 12:00:45,200][74770][ Thread-22][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:00:45] "GET /api/v1/ttt HTTP/1.1" 200 -
+[2020-11-27 12:03:56,107][74770][ Thread-23][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:03:56] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:04:06,652][74770][ Thread-24][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:04:06] "GET /api/v1/ttt HTTP/1.1" 200 -
+[2020-11-27 12:04:25,543][74770][ Thread-25][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:04:25] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:04:28,006][74770][ Thread-26][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:04:28] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:04:28,009][74770][ Thread-27][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:04:28] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:04:44,355][74770][ Thread-28][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:04:44] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:04:52,271][74770][ Thread-29][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:04:52] "GET /api/v1/ttt HTTP/1.1" 200 -
+[2020-11-27 12:05:50,848][74770][ Thread-30][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:05:50] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:05:50,858][74770][ Thread-31][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:05:50] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:10:21,597][74770][ Thread-32][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:21] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:10:23,506][74770][ Thread-33][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:23] "GET /api/v1/ttt HTTP/1.1" 200 -
+[2020-11-27 12:10:28,108][74770][ Thread-34][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:28] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:10:28,121][74770][ Thread-35][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:28] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:10:43,603][74770][ Thread-36][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:43] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:10:43,613][74770][ Thread-37][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:43] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:10:57,150][74770][ Thread-38][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:10:57] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:11:00,397][74770][ Thread-39][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:11:00] "GET /api/v1/tttt HTTP/1.1" 401 -
+[2020-11-27 12:11:05,851][74770][ Thread-40][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:11:05] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:11:05,856][74770][ Thread-41][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:11:05] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:11:56,012][74770][ Thread-42][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:11:56] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:11:56,022][74770][ Thread-43][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:11:56] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:12:17,766][74770][ Thread-44][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:12:17] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:12:17,775][74770][ Thread-45][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:12:17] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:13:03,509][74770][ Thread-46][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:13:03] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:13:03,516][74770][ Thread-47][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:13:03] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:14:09,839][74770][ Thread-48][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:14:09] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:14:16,943][74770][ Thread-49][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:14:16] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 12:14:18,232][74770][ Thread-50][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:14:18] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 12:14:23,727][74770][ Thread-51][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:14:23] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:14:23,733][74770][ Thread-52][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:14:23] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 12:15:33,064][74770][ Thread-53][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:15:33] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:15:33,080][74770][ Thread-54][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:15:33] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:15:39,139][74770][ Thread-55][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:15:39] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:15:39,146][74770][ Thread-56][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:15:39] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 12:18:47,544][74770][ Thread-57][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:18:47] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 12:18:52,431][74770][ Thread-58][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:18:52] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 12:18:56,209][74770][ Thread-59][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:18:56] "GET /api/v1/test1 HTTP/1.1" 200 -
+[2020-11-27 12:18:58,364][74770][ Thread-60][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:18:58] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 12:18:58,374][74770][ Thread-61][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 12:18:58] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 14:32:21,876][74770][ Thread-62][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:21] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:32:27,144][74770][ Thread-63][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:27] "GET /api/v1/ HTTP/1.1" 404 -
+[2020-11-27 14:32:35,054][74770][ Thread-64][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:35] "GET /api/v1/asdddd HTTP/1.1" 401 -
+[2020-11-27 14:32:37,330][74770][ Thread-65][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:37] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 14:32:37,336][74770][ Thread-66][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:37] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 14:32:40,128][74770][ Thread-67][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:40] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 14:32:43,834][74770][ Thread-68][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:43] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:32:50,783][74770][ Thread-69][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:50] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 14:32:50,787][74770][ Thread-70][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:32:50] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 14:33:32,475][74770][ Thread-71][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:32] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:33:36,691][74770][ Thread-72][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:36] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 14:33:36,695][74770][ Thread-73][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:36] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 14:33:40,994][74770][ Thread-74][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:40] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 14:33:42,805][74770][ Thread-75][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:42] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 14:33:42,810][74770][ Thread-76][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:42] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 14:33:44,818][74770][ Thread-77][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:44] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:33:47,467][74770][ Thread-78][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:47] "POST /api/v1/add_member HTTP/1.1" 201 -
+[2020-11-27 14:33:49,492][74770][ Thread-79][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:33:49] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:34:48,578][74770][ Thread-80][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:34:48] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:34:58,387][74770][ Thread-81][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:34:58] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 14:34:58,394][74770][ Thread-82][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:34:58] "POST /api/v1/add_member HTTP/1.1" 400 -
+[2020-11-27 14:35:00,267][74770][ Thread-83][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:35:00] "GET /api/v1/asddddasd HTTP/1.1" 200 -
+[2020-11-27 14:35:04,297][74770][ Thread-84][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:35:04] "GET /api/v1/asddddasd HTTP/1.1" 200 -
+[2020-11-27 14:47:46,044][74770][ Thread-85][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:47:46] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:47:46,355][74770][ Thread-86][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:47:46] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:51:16,109][74770][ Thread-87][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:51:16] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 14:51:56,316][74770][ Thread-88][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 14:51:56] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 15:48:12,117][74770][ Thread-89][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 15:48:12] "GET /api/v1/member_list HTTP/1.1" 200 -
+[2020-11-27 15:48:25,854][74770][ Thread-90][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 15:48:25] "GET /api/v1/asddddasd HTTP/1.1" 200 -
+[2020-11-27 15:48:28,832][74770][ Thread-91][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 15:48:28] "OPTIONS /api/v1/add_member HTTP/1.1" 200 -
+[2020-11-27 15:48:28,845][74770][ Thread-92][I][_internal.py:_log:122] : 127.0.0.1 - - [27/Nov/2020 15:48:28] "POST /api/v1/add_member HTTP/1.1" 400 -

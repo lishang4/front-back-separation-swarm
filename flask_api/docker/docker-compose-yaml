@@ -1,0 +1,22 @@
+version: "3"
+services:
+  web-api:
+    image: harbor.lishang4.com/fju/web-api:${TAG:-latest}
+    container_name: web-api
+    volumes:
+      - /etc/localtime:/etc/localtime
+    restart: always
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+    ports:
+      - "5010:5010"
+    environment:
+      - TW_PORT=5010
+    networks:
+      - swarm
+networks:
+  emotibot:
+    external:
+      name: swarm

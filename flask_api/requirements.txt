@@ -1,0 +1,12 @@
+flask
+flask-restful-swagger-2
+flask-cors
+flask-restful
+meinheld
+gunicorn
+gevent==1.4.0
+requests
+python-dateutil
+pypinyin
+greenlet==0.4.16
+cython
