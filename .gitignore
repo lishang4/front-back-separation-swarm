@@ -1,0 +1,6 @@
+frontend_vue/node_modules
+.DS*
+**/*.tar.xz
+**/*.tar
+*.tar.xz
+*.tar
